@@ -1,0 +1,43 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  margin: 0;
+  background-color: #f8f9fa;
+  color: #222;
+}
+.header {
+  text-align: center;
+  background-color: #0b3d91;
+  color: #fff;
+  padding: 1.5rem 1rem;
+}
+.logo {
+  width: 80px;
+  height: auto;
+  margin-bottom: 0.5rem;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 2rem;
+}
+.facebook-section {
+  text-align: center;
+}
+.fb-container {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
+iframe {
+  max-width: 100%;
+  border-radius: 8px;
+}
+.footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #0b3d91;
+  color: #fff;
+  font-size: 0.9rem;
+}
